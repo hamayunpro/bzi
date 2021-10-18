@@ -1,0 +1,135 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<link rel="stylesheet" type="text/css" href="js/style.css">
+
+<style type="text/css">
+
+body {
+
+	margin-top: 0px;}
+
+</style>
+
+<script type="text/javascript" language="javascript" src="js/SearchScripts.js"></script>
+
+<title>BISE Peshawar :-:-: Online Results</title>
+
+</head>
+
+<body>
+
+<table width="100%" border="0" align="center" cellpadding="2" cellspacing="1" class="rounded-border" height="90%">
+
+<tr>
+
+<td height="26" colspan="2"><div align="center" class="h1">BOARD OF INTERMEDIATE &amp; SECONDARY EDUCATION PESHAWAR
+
+</div></td>
+
+</tr>
+
+<tr>
+
+<td height="26" colspan="2"><div align="center" class="h3">RESULT - SSC & HSSC ANNUAL EXAM 2021
+
+</div></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2"><div class="Normal" align="center"><strong>
+
+<noscript>
+
+      Javascripts are blocked in your browser. This page uses ajax + javascripts and won't work without these.
+
+      </noscript></strong></div></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<form action="" method="post" name="form1" id="form1" onSubmit="return false;">
+
+<div align="center">
+
+<span class="Normal">Roll No</span>:
+
+<input name="RollNo" type="text" required="required" class="input-items" id="RollNo" placeholder="e.g. 123456" size="30" maxlength="8">
+
+<br>
+
+<input name="submit" type="submit" class="input-items" id="submit" onClick="SearchResultbyRoll(document.getElementById('RollNo').value);" value="Search Result">
+
+<input type="button" name="reset" id="reset" value="Reset" onClick="javascript: document.getElementById('RollNo').value= ''; document.getElementById('RollNo').focus();document.getElementById('ShowResult').style='visibility:hidden';">
+
+</div>
+
+</form></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<div align="center"><h4></h4></div> </td>
+
+</tr>
+
+<tr>
+
+<td colspan="2"><div id="ShowResult" align="center">&nbsp;</div></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2"><div class="Normal" align="center">
+
+<h2><a href="https://www.facebook.com/BISEPonline/" target="_blank">Join Us on Facebook</a></h2>
+
+</div></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2"><div align="center">
+
+</div></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2"><hr align="center" width="100%" size="1" noshade color="#CCCCCC" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2"><div class="short_menu_right" align="center">Copyright &copy; 2021. BISE PESHAWAR Cloud Services 13</div></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">&nbsp;</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
